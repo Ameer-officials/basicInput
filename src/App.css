@@ -1,0 +1,41 @@
+
+.App {
+  text-align: center;
+
+}
+.btn{
+  width: 100px;
+  padding: 0.6rem;
+  font-size: larger;
+  background: transparent;
+  color: ivory;
+  border: 2px solid #ffffff !important;
+  border-radius: 10px;
+}
+.btn:hover{
+  background-color: #ffffff;
+  color: black;
+  border: 2px solid black;
+  font-size: larger;
+}
+
+.input-text{
+  width: 20rem;
+  margin: 2rem;
+  padding: 0.6rem;
+  font-size: larger;
+  background: transparent;
+  color: ivory;
+  border: 2px solid #ffffff !important;
+  border-radius: 10px;
+}
+.div-input{
+  border: none;
+  width: 20rem;
+  padding: 0.6rem;
+  font-size: larger;
+  background: transparent;
+  color: ivory;
+  border-bottom: 2px solid #ffffff !important;
+  /* border-radius: 10px; */
+}
